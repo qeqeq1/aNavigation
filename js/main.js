@@ -448,7 +448,7 @@ function select() {
   } else {
     a.addEventListener("load", b, false)
   }
-}(window, document, "script", "SeniverseWeatherWidget", "//cdn.sencdn.com/widget2/static/js/bundle.js?t=" + parseInt((new Date().getTime() / 100000000).toString(), 10)));
+}(window, document, "script", "SeniverseWeatherWidget", "https://cdn.sencdn.com/widget2/static/js/bundle.js?t=" + parseInt((new Date().getTime() / 100000000).toString(), 10)));
 window.SeniverseWeatherWidget('show', {
   flavor: "bubble",
   location: "WX4FBXXFKE4F",
