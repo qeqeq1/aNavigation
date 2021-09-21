@@ -22,7 +22,7 @@ ul {
 /*媒体查询*/
 @media (max-width: 768px) { /*小屏*/
 	#main {
-		background: url(../img/bg-xs.jpg) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/qeqeq1/aNavigation@master/js//img/bg-xs.jpg) no-repeat;
 		background-attachment: fixed;
 		background-size: cover;
 	}
@@ -38,7 +38,7 @@ ul {
 
 @media (min-width: 768px) { /*大屏*/
 	#main {
-		background: url(../img/bg.jpg) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/qeqeq1/aNavigation@master/js//img/bg.jpg) no-repeat;
 		background-attachment: fixed;
 		background-size: cover;
 	}
